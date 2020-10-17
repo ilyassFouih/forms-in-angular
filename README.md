@@ -4,4 +4,4 @@ This repo explains how Angular handle forms, the two approaches Reactive and tem
 # To Do :
 - [x] Add bootstrap 
 - [x] generating two feature modules 
-- [] adding navBar
+- [x] adding navBar
